@@ -143,6 +143,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+kaggle_hackthon_first/
+
+data
+
 
 # Spyder project settings
 .spyderproject
