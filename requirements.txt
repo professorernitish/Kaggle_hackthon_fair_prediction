@@ -5,5 +5,5 @@ matplotlib
 seaborn
 flask
 streamlit
-
+gunicorn==22.0.0
 scikit-learn
